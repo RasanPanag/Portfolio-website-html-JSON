@@ -46,3 +46,17 @@ Created my own portfolio website. This website contains all information about my
   - **fancybox**: fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 
 - **JSON**: The JSON format is syntactically identical to the code for creating JavaScript objects. Because of this similarity, a JavaScript program can easily convert JSON data into native JavaScript objects. The JSON syntax is derived from JavaScript object notation syntax, but the JSON format is text only.
+
+## Repository contains:
+- **index.html** file is the main page of the Portfolio.
+- **index.html** file is the page to my Salesforce Project.
+- **.css** files are Stylesheets.
+- **.js** are JavaScript files.
+- **.json** are JSON files
+- **.jpeg, .jpg, .gif, .png** all are images or logo used for this website.
+
+## References:
+- https://www.w3schools.com/html/
+- https://www.w3schools.com/js/default.asp
+- https://www.w3schools.com/css/default.asp
+- https://www.w3schools.com/jquery/default.asp
