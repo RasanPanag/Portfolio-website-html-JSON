@@ -4,13 +4,13 @@
 Created my own portfolio website. This website contains all information about my education, work, contact and hobbies. To create this website I have utilized concepts of HTML, CSS, JavaScript and JSON. HTML is used to describe the structure of webpage. All the headings, text, tables, lists etc. are published using HTML. The CSS is used for styles on the webpage. All the looks and formatting are written in this CSS markup language. JavaScript is used to create animated images, dynamic behaviour on the webpage adn special effects. Jquery from JavaScript library is also used to create a code in more concise manner. JSON is used for serializing and transmitting structured data over network connection.
 
 ## Features Used:
-- **HTML**:
+- **HTML**: HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.
   - **Style**: The HTML style attribute is used to add styles to an element, such as color, font, size, and more
   - **head**: The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
   - **body**: he <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. Note: There can only be one <body> element in an HTML document.
   - **div**:  The <div> HTML element is the generic container for flow content. It has no effect on the content or layout until styled in some way using CSS (e.g. styling is directly applied to it, or some kind of layout model like Flexbox is applied to its parent element).
   - **header**: The <header> tag in HTML is used to define the header for a document or a section as it contains the information related to the title and heading of the related content.
-  - **p**: The <p> HTML element represents a paragraph.
+  - **p**: This HTML element represents a paragraph.
   - **section**: a section is a semantic element for creating standalone sections in a web page. These sections should be made up of related content, like contact information. The section element should only be used if there isn't a more specific element to represent the related content.
   - **a**: The Anchor element. The <a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
   - **b**: used to bold the letters.
@@ -20,7 +20,7 @@ Created my own portfolio website. This website contains all information about my
   - **tittle**: The <title> HTML element defines the document's title that is shown in a browser's title bar or a page's tab. It only contains text; tags within the element are ignored.
   - **link rel**: The rel attribute defines the relationship between a linked resource and the current document.
 
-- **CSS**:
+- **CSS**: CSS makes the front-end of a website shine and it creates a great user experience. Without CSS, websites would be less pleasing to the eye and likely much harder to navigate. In addition to layout and format, CSS is responsible for font color and more.
   - **width**: The width CSS property sets an element's width. By default, it sets the width of the content area, but if box-sizing is set to border-box , it sets the width of the border area
   - **paddding**: An element's padding area is the space between its content and its border. Note: Padding creates extra space within an element. In contrast, margin creates extra space around an element.
   - **background**: The background property in CSS allows you to control the background of any element (what paints underneath the content in that element). It is a shorthand property, which means that it allows you to write what would be multiple CSS properties in one.
@@ -36,3 +36,13 @@ Created my own portfolio website. This website contains all information about my
   - **margin**: a margin is the space around an element's border, while padding is the space between an element's border and the element's content. Put another way, the margin property controls the space outside an element, and the padding property controls the space inside an element.
   - **text-align**: The CSS align-items property sets the align-self value on all direct children as a group. In Flexbox, it controls the alignment of items on the Cross Axis.
   - **Flexbox**: The Flexible Box Module, usually referred to as flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities.
+
+- **JavaScript**: JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
+  - **var**: let allows you to declare variables that are limited to the scope of a block statement, or expression on which it is used, unlike the var keyword, which declares a variable globally, or locally to an entire function regardless of block scope.
+  - **function**: A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it).
+  - **ready**: The ready event occurs when the DOM (document object model) has been loaded. Because this event occurs after the document is ready, it is a good place to have all other jQuery events and functions. Like in the example above.
+  - **waypoint**: When you scroll to element it calls handler. Waypoints does not control the display or visibility of Elements. You can set an offset trigger point with the options Object. You can use the function you assign to handler to program changes within. Waypoints seems like a poor choice for naming this API.
+  - **flexslider**: Simple, semantic markup. Supported in all major browsers. Horizontal/vertical slide and fade animations.
+  - **fancybox**: fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+
+- **JSON**: The JSON format is syntactically identical to the code for creating JavaScript objects. Because of this similarity, a JavaScript program can easily convert JSON data into native JavaScript objects. The JSON syntax is derived from JavaScript object notation syntax, but the JSON format is text only.
