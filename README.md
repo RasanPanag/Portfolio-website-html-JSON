@@ -1,7 +1,7 @@
 # Creator: Rasandeep  Singh Panag
 
 ## General Concept
-Created my own portfolio website. This website contains all information about my education, work, contact and hobbies. To create this website I have utilized concepts of HTML, CSS, JavaScript and JSON. HTML is used to describe the structure of webpage. All the headings, text, tables, lists etc. are published using HTML. The CSS is used for styles on the webpage. All the looks and formatting are written in this CSS markup language. JavaScript is used to create animated images, dynamic behaviour on the webpage adn special effects. Jquery from JavaScript library is also used to create a code in more concise manner. JSON is used for serializing and transmitting structured data over network connection.
+Created my own portfolio website. This website contains all information about my education, work, contact and hobbies.  To create this website I have utilized concepts of HTML, CSS, JavaScript, SASS and JSON. HTML is used to describe the structure of webpage. All the headings, text, tables, lists etc. are published using HTML. The CSS is used for styles on the webpage. All the looks and formatting are written in this CSS markup language. JavaScript is used to create animated images, dynamic behavior on the webpage and special effects. Jquery from JavaScript library is also used to create a code in more concise manner. JSON is used for serializing and transmitting structured data over network connection.
 
 ## Features Used:
 - **HTML**: HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.
