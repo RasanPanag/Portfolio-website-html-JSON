@@ -47,10 +47,13 @@ Created my own portfolio website. This website contains all information about my
 
 - **JSON**: The JSON format is syntactically identical to the code for creating JavaScript objects. Because of this similarity, a JavaScript program can easily convert JSON data into native JavaScript objects. The JSON syntax is derived from JavaScript object notation syntax, but the JSON format is text only.
 
+- **SCSS**: is the second syntax of Sass (Syntactically Awesome Stylesheet) that uses brackets instead of indentations. SCSS was designed in such a way that a valid CSS3 file is also a valid SCSS file. SCSS files are stored with the . scss extension.
+
 ## Repository contains:
 - **index.html** file is the main page of the Portfolio.
 - **index.html** file is the page to my Salesforce Project.
 - **.css** files are Stylesheets.
+- **.scss** extension is for SASS files
 - **.js** are JavaScript files.
 - **.json** are JSON files
 - **.jpeg, .jpg, .gif, .png** all are images or logo used for this website.
